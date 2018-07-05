@@ -1,27 +1,21 @@
-About
+# Amplify Motion
 
-  Amplify Motion (c) Amplify Creations, Lda. All rights reserved.
+  Amplify Motion was the first Full-scene Motion Blur extension for Unity,
+  released back in featuring support for both Static and Dynamic objects, including Skinned 
+  and Cloth Meshes.
 
-  Amplify Motion is a Full-scene Motion Blur extension for Unity Pro
-
-  Redistribution of Amplify Motion is frowned upon. If you want to share the 
-  software, please refer others to the official website:
-
-    http://amplify.pt/unity/amplify-motion
+  This package is now deprecated and we no longer support it so we are
+  releasing it to open-source world under the MIT License.
 	
-Description
+# Description
 
   Amplify Motion, previously known as Easyflow Motion Blur, is a complete and 
   fast full-scene vector motion blur effect that works with all opaque and 
   coverage/alpha-test surfaces. It supports both stationary and moving objects. 
   Handles translation as well as rotation on camera and dynamic objects using 
   per-pixel vectors.
-  
-  **WARNINGS**
-  
-  * Particle system support requires Unity 5.3+
 
-Features:
+# Features
 
   * Full-scene vector motion blur
   * Camera and moving objects
@@ -34,11 +28,11 @@ Features:
   * Optimized for Mobile
   * Console support
 
-Supported Platforms
+# Supported Platforms
 
   * All platforms
 	
-Software Requirements
+# Software Requirements
 
   Minimum
 
@@ -48,7 +42,7 @@ Software Requirements
 
     Unity 5.3.0f4+
 
-Quick Guide
+# Quick Guide
 
   1) Apply "Image Effects/Amplify Motion" to your main camera
     
@@ -60,13 +54,13 @@ Quick Guide
 
   3) Enjoy the smooth cinematic feel
 
-Documentation
+# Documentation
 
   Please refer to the following website for an up-to-date online manual:
 
     http://amplify.pt/unity/amplify-motion/manual
 
-Feedback
+# Feedback
 
   To file error reports, questions or suggestions, you may use 
   our feedback form online:
@@ -78,7 +72,7 @@ Feedback
     For general inquiries - info@amplify.pt
     For technical support - support@amplify.pt (customers only)
 
-Acknowledgements
+# Acknowledgements
 
   Kashif C. Riley for the original pitch
   http://forum.unity3d.com/members/14129-Neptune_Imaging
