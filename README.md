@@ -1,7 +1,7 @@
 # Amplify Motion
 
   Amplify Motion was the first Full-scene Motion Blur extension for Unity,
-  released back in 2013, and featured support for both Static and Dynamic 
+  released back in 2012, and featured support for both Static and Dynamic 
   objects, including Skinned and Cloth Meshes. It was a big undertaking at 
   a time when Unity was still very far from having native Motion Vectors.
 
