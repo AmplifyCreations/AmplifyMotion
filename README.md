@@ -1,20 +1,20 @@
 # Amplify Motion
 
-  Amplify Motion was the first Full-scene Motion Blur extension for Unity,
-  released back in 2012, and featured support for both Static and Dynamic 
-  objects, including Skinned and Cloth Meshes. It was a big undertaking at 
-  a time when Unity was still very far from having native Motion Vectors.
+  Amplify Motion was the first Full-scene Motion Blur extension for Unity, released 
+  back in 2012, and featured support for both Static and Dynamic objects, including 
+  Skinned and Cloth Meshes. It was a big undertaking at a time when Unity was still 
+  very far from having native Motion Vectors.
 
-  This package is now deprecated and we no longer support it, so we are
-  releasing it to open-source world under the MIT License.
+  This package was for sale on the Unity Asset Store between 2012 and 2019 with an
+  average rating of 5 stars. It is now deprecated and we no longer support it, so we 
+  are releasing it to open-source world under the MIT License.
 	
 # Description
 
-  Amplify Motion, previously known as Easyflow Motion Blur, is a complete and 
-  fast full-scene vector motion blur effect that works with all opaque and 
-  coverage/alpha-test surfaces. It supports both stationary and moving objects. 
-  Handles translation as well as rotation on camera and dynamic objects using 
-  per-pixel vectors.
+  Amplify Motion, previously known as Easyflow Motion Blur, is a complete and fast
+  full-scene vector motion blur effect that works with all opaque and coverage/alpha-
+  -test surfaces. It supports both stationary and moving objects. Handles translation 
+  as well as rotation on camera and dynamic objects using per-pixel vectors.
 
 # Features
 
