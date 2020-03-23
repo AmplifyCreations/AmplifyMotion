@@ -75,5 +75,6 @@
 
 # Acknowledgements
 
-  Kashif C. Riley for the original pitch
-  http://forum.unity3d.com/members/14129-Neptune_Imaging
+  Kashif C. Riley for the original pitch:
+  
+    http://forum.unity3d.com/members/14129-Neptune_Imaging
