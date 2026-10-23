@@ -314,8 +314,8 @@ public class AmplifyMotionEffectBase : MonoBehaviour
 
 		if ( QualityLevel == AmplifyMotion.Quality.Mobile )
 		{
-			screenWidth /= 2;
-			screenHeight /= 2;
+			screenWidth = Mathf.Max( screenWidth / 2, 1 );
+			screenHeight = Mathf.Max( screenHeight / 2, 1 );
 		}
 
 		if ( m_width != screenWidth || m_height != screenHeight )
